@@ -1,0 +1,49 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "25.0.3"
+
+    aaptOptions.cruncherEnabled = false
+    aaptOptions.useNewCruncher = false
+
+    defaultConfig {
+        applicationId "net.cangshengwang.android.mobile2"
+        minSdkVersion 14
+        targetSdkVersion 19
+    }
+
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile 'com.android.support:support-v4:19.1.0'
+    compile files('libs/activeandroid-3.0.jar')
+    compile files('libs/commons-lang-2.6.jar')
+    compile files('libs/httpmime-4.1.2.jar')
+    compile files('libs/json.jar')
+    compile files('libs/spring-android-auth-1.0.1.RELEASE.jar')
+    compile files('libs/spring-android-core-1.0.1.RELEASE.jar')
+    compile files('libs/spring-android-rest-template-1.0.1.RELEASE.jar')
+    compile files('libs/xcl-charts.jar')
+    compile files('libs/xUtils-2.6.14.jar')
+    compile files('libs/achartengine-1.2.0.jar')
+    compile files('libs/BmobSDK_3.5.5_20170420.jar')
+    compile files('libs/gson-2.6.2.jar')
+    compile files('libs/okhttp-3.3.1.jar')
+    compile files('libs/okio-1.7.0.jar')
+    compile files('libs/rxandroid-1.2.0.jar')
+    compile files('libs/rxjava-1.1.6.jar')
+}

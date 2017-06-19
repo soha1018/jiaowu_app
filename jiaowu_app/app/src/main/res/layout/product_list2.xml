@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#FAFAFA"
+    android:orientation="vertical" >
+
+    <!-- 首页TOP -->
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#0855C2"
+        android:orientation="horizontal"
+        
+        android:padding="5dip" >
+    <TextView
+            android:id="@+id/textHomeSearch"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="已选课程"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:textColor="@color/white" 
+            android:paddingLeft="30dip" />
+        <EditText
+            android:id="@+id/textHomeSearch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/frame_search"
+            android:drawableLeft="@drawable/zoom"
+            android:visibility="gone"
+            android:hint="搜索商品"
+            android:textSize="15dp"
+            android:padding="5dip" />
+              <ImageButton
+            android:id="@+id/imageSearch"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+             android:visibility="gone"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dip"
+            android:background="@drawable/common_title_search_btn_bg"
+            android:gravity="center_vertical" />
+    </RelativeLayout>
+        <ListView
+        android:id="@+id/goodsListView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:cacheColorHint="#f5f5f5"
+        android:divider="@drawable/cart_listview_gap"
+        android:drawSelectorOnTop="false"
+        android:listSelector="#00000000"
+        android:fadingEdge="none" />
+    <!-- 
+     
+    -->
+    <!-- #f5f5f5 -->
+    <!-- android:fadingEdge="none" -->
+
+   <!--  <com.etsy.android.grid.StaggeredGridView
+        android:id="@+id/grid_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:column_count_landscape="3"
+        app:column_count_portrait="2"
+        app:item_margin="8dp" /> -->
+
+    <TextView
+        android:id="@+id/textNoNoDatas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:drawableLeft="@drawable/notified"
+        android:text="没有数据"
+        android:textColor="#6D6D6D"
+        android:textSize="20dp"
+        android:visibility="gone" />
+
+</LinearLayout>

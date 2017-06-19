@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\Androidproject\jiaowu_app\app\libs\BmobSDK_3.5.5_20170420.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c5bc92744cfd1f0652327a1b1399862982b5939e">
+        <dex dex="F:\Androidproject\jiaowu_app\app\build\intermediates\pre-dexed\debug\BmobSDK_3.5.5_20170420_d156bd97ef95c88c96e39406db7688506742b5ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Androidproject\jiaowu_app\app\libs\commons-lang-2.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0ce1edb914c94ebc388f086c6827e8bdeec71ac2">
+        <dex dex="F:\Androidproject\jiaowu_app\app\build\intermediates\pre-dexed\debug\commons-lang-2.6_bd354c7a3b054bc8159c2607299bca71c588dab7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Androidproject\jiaowu_app\app\libs\rxandroid-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="F:\Androidproject\jiaowu_app\app\build\intermediates\pre-dexed\debug\rxandroid-1.2.0_86916cd465fad0891feac7f3861051c85bc8ce88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Androidproject\jiaowu_app\app\libs\okio-1.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1dc44f4cec20a64cebb68b90b4218f82ac7948b1">
+        <dex dex="F:\Androidproject\jiaowu_app\app\build\intermediates\pre-dexed\debug\okio-1.7.0_4a1da26e11379780287f7c110015c2e82c1503a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Androidproject\jiaowu_app\app\libs\spring-android-core-1.0.1.RELEASE.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e68f0e8e4b636ee30c4de58953be38d9b72a5e3b">
+        <dex dex="F:\Androidproject\jiaowu_app\app\build\intermediates\pre-dexed\debug\spring-android-core-1.0.1.RELEASE_31c79fb75f993fe65c0619c9a138a480d87653cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Androidproject\jiaowu_app\app\libs\activeandroid-3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8cdfaba830e02c56967e946078b60fc476432f36">
+        <dex dex="F:\Androidproject\jiaowu_app\app\build\intermediates\pre-dexed\debug\activeandroid-3.0_432719d8fac6349031e1678064da6fd76c5c3be8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Androidproject\jiaowu_app\app\libs\httpmime-4.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ed8b5ee0167cb27dea55851259eb34b609f31df0">
+        <dex dex="F:\Androidproject\jiaowu_app\app\build\intermediates\pre-dexed\debug\httpmime-4.1.2_c9fec3dbc76057d72f53e1cf7020aaae3c8f9a7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Androidproject\jiaowu_app\app\libs\spring-android-rest-template-1.0.1.RELEASE.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e132d929bd181941f79b0d63edafb8a86ae6fd33">
+        <dex dex="F:\Androidproject\jiaowu_app\app\build\intermediates\pre-dexed\debug\spring-android-rest-template-1.0.1.RELEASE_3faed609df2586962067f986815e271cbf32f77f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Androidproject\jiaowu_app\app\libs\json.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f35340c0a0380141f62c72b76c8fb4bfa638d8c1">
+        <dex dex="F:\Androidproject\jiaowu_app\app\build\intermediates\pre-dexed\debug\json_d954a993d5d4b46129961e2c12821bc63a496411.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android-sdk_r24.4.1-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\Androidproject\jiaowu_app\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_10c84d8840f80ff2a1279c9774cb6f2eef2e86e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Androidproject\jiaowu_app\app\libs\okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="F:\Androidproject\jiaowu_app\app\build\intermediates\pre-dexed\debug\okhttp-3.3.1_21eb40b25dac88e543b5299d885b1d171bee8704.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Androidproject\jiaowu_app\app\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="F:\Androidproject\jiaowu_app\app\build\intermediates\pre-dexed\debug\xUtils-2.6.14_93d90979996fb6159dc59043e53b1396a90a91cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Androidproject\jiaowu_app\app\libs\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="F:\Androidproject\jiaowu_app\app\build\intermediates\pre-dexed\debug\gson-2.6.2_5575896488c9f34d621e24584c786ed0a1d3b83c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Androidproject\jiaowu_app\app\libs\spring-android-auth-1.0.1.RELEASE.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f43faebbf90aef324979a81a4f5eee1e3b95191f">
+        <dex dex="F:\Androidproject\jiaowu_app\app\build\intermediates\pre-dexed\debug\spring-android-auth-1.0.1.RELEASE_3b9fee8683b853d28483f5f5a8c8ee9ab936d164.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Androidproject\jiaowu_app\app\libs\xcl-charts.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8eeaa4e354c264dd7636e702c3bd4a1deda26207">
+        <dex dex="F:\Androidproject\jiaowu_app\app\build\intermediates\pre-dexed\debug\xcl-charts_fd068e0bb72220e1a88224138c51b7d3a32ecd60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Androidproject\jiaowu_app\app\libs\achartengine-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="21dbf9ba2db6456561cb193bce51713a258f8123">
+        <dex dex="F:\Androidproject\jiaowu_app\app\build\intermediates\pre-dexed\debug\achartengine-1.2.0_434a8fec7caaffc9de30569e040f238c1a19776b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Androidproject\jiaowu_app\app\libs\rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="F:\Androidproject\jiaowu_app\app\build\intermediates\pre-dexed\debug\rxjava-1.1.6_c236b9d797b96bafd33e42e6d35020a81020e004.jar" />
+    </item>
+
+</items>

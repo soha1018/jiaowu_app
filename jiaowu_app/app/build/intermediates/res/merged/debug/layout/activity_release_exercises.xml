@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5F5F5"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/title"
+        android:background="#0855C2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:gravity="center"
+        android:padding="5dip"
+        android:text="发布习题"
+        android:textColor="#FFFFFF"
+        android:textSize="18dp" />
+
+    <EditText
+        android:id="@+id/et_exercises_title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dip"
+        android:inputType="text"
+        android:hint="请输入标题"
+        android:padding="10dip"
+        android:singleLine="true"
+        android:textColor="#6d6d6d"
+        android:textSize="15dp" />
+
+    <EditText
+        android:id="@+id/et_exercises_content"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp"
+        android:layout_margin="5dip"
+        android:gravity="start"
+        android:inputType="textMultiLine"
+        android:hint="请输入内容"
+        android:padding="10dip"
+        android:textColor="#6d6d6d"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/tv_time"
+        android:layout_marginRight="10dp"
+        android:layout_gravity="end"
+        android:layout_marginTop="5dp"
+        android:textColor="#000"
+        android:text="@string/current_time"
+        android:textSize="16sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <LinearLayout
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:textColor="#000"
+            android:text="@string/release_name"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <EditText
+            android:id="@+id/et_exercises_name"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dip"
+            android:inputType="text"
+            android:hint="请输入您的姓名"
+            android:padding="10dip"
+            android:singleLine="true"
+            android:textColor="#6d6d6d"
+            android:textSize="15dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="班级："
+            android:textColor="#000"
+            android:textSize="22sp"/>
+
+        <EditText
+            android:id="@+id/et_exercises_grade"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dip"
+            android:hint="请输入班级"
+            android:inputType="number"
+            android:padding="10dip"
+            android:singleLine="true"
+            android:textColor="#6d6d6d"
+            android:textSize="15dp"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_release"
+        android:text="发布"
+        android:textSize="20sp"
+        android:background="@drawable/login_bg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+
+</LinearLayout>

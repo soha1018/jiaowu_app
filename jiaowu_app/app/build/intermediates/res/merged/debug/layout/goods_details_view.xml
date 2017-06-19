@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ECECEC"
+    android:orientation="vertical" >
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:focusable="true"
+        android:orientation="vertical" >
+        <ScrollView
+            android:id="@+id/SView"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:focusable="true"
+            android:clickable="true">
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical" >
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+                    <Gallery
+                        android:id="@+id/goodsDetailsGallery"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:background="#F5F5F5"
+                        android:spacing="100dp" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dip"
+                    android:background="@drawable/num"
+                    android:orientation="vertical"
+                    android:padding="5dip" >
+                    <TextView
+                        android:id="@+id/textGoodsDetailsWeb"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:drawableRight="@drawable/right_arrow"
+                        android:padding="5dip"
+                        android:text="详细信息"
+                        android:textColor="#6D6D6D"
+                        android:textSize="16dp" />
+                                     <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:paddingBottom="2.5dip"
+                        android:paddingLeft="5dip"
+                        android:paddingRight="5dip"
+                        android:paddingTop="5dip" >
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/textGoodsDetailsPrice"
+                            android:text="c"
+                            android:textColor="#6D6D6D"
+                            android:textSize="20dp" />
+                    </LinearLayout>
+                    
+                   <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:paddingBottom="5dip"
+                        android:paddingLeft="5dip"
+                        android:gravity="right"
+                        android:paddingRight="5dip"
+                        android:paddingTop="2.5dip" >
+                        <TextView
+                            android:id="@+id/textauthor"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="100dip"
+                            android:text="$ 1520.0"
+                            android:textColor="#909090"
+                            android:textSize="15dp"
+                            android:textStyle="bold" />
+                        <TextView
+                            android:id="@+id/texttype"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="10dip"
+                            android:text="$ 1520.0"
+                            android:textColor="#909090"
+                            android:textSize="15dp"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/product_detail_new_line" />
+                    <TextView
+                        android:id="@+id/textGoodsDetailsName"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:maxLines="10"
+                        android:padding="5dip"
+                        android:text="c c"
+                        android:textColor="#6D6D6D"
+                        android:textSize="15dp" />
+                    <TextView
+                        android:id="@+id/textGoodsPrice"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="5dip"
+                        android:text="#DC143C"
+                        android:visibility="gone"
+                        android:textColor="#6D6D6D"
+                        android:textSize="15dp" />
+   
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:paddingBottom="5dip"
+                        android:paddingLeft="5dip"
+                        android:gravity="right"
+                        android:paddingRight="5dip"
+                        android:paddingTop="2.5dip" >
+                        <TextView
+                            android:id="@+id/textGoodsDetailsMarketPrice"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="10dip"
+                            android:text="$ 1520.0"
+                            android:textColor="#909090"
+                            android:textSize="15dp"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout
+                    android:id="@+id/linearLayoutStorage"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dip"
+                    android:background="@drawable/num"
+                    android:orientation="vertical"
+                    android:padding="5dip">
+     <!--                <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal" >
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="10dip"
+                            android:text="库存:"
+                            android:textColor="#6d6d6d"
+                            android:textSize="15dp" />
+                        <TextView
+                            android:id="@+id/textGoodsDetailsStorage"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="10dip"
+                            android:text="1201211件"
+                            android:textColor="#6d6d6d"
+                            android:textSize="15dp" />
+                    </LinearLayout> -->
+                    <LinearLayout
+                        android:id="@+id/linearLayoutSpecView"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:focusable="false"
+                        android:orientation="vertical" >
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout
+                    android:id="@+id/linearlayoutManSong"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dip"
+                    android:background="@drawable/num"
+                    android:orientation="vertical"
+                    android:visibility="gone"
+                    android:padding="5dip" >
+                    <net.common.android.ui.custom.MyListView
+                        android:id="@+id/listViewManSongRules"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:divider="@drawable/product_detail_new_line"
+                        android:focusable="false" />
+                </LinearLayout>
+    <!--             <LinearLayout
+                    android:id="@+id/linearLayoutNumber"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/num"
+                    android:layout_margin="10dip"
+                    android:padding="5dip"
+                    android:orientation="horizontal">
+                    <Button 
+                        android:id="@+id/buttonGoodsNumberMinus"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dip"
+                        android:background="@drawable/edit_product_num_des_normal"/>
+                    <TextView 
+                        android:id="@+id/textGoodsNumberValues"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="1"
+                        android:layout_marginLeft="5dip"
+                        android:layout_marginRight="5dip"
+                        android:textColor="#6D6D6D"
+                        android:textSize="16dp"/>
+                    <Button 
+                        android:id="@+id/buttonGoodsNumberADD"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/edit_product_num_add_normal"/>
+                </LinearLayout> -->
+                <LinearLayout
+                    android:id="@+id/linearLayoutBuy"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:padding="10dip" >
+   <!--                  <Button
+                        android:id="@+id/buttonAddShopCart"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_marginRight="5dip"
+                        android:layout_marginBottom="5dip"
+                        android:layout_weight="1"
+                        android:background="@drawable/add_to_car_button_normal"
+                        android:padding="10dip"
+                        android:text="订购门票"
+                        android:textColor="#FFFFFF"
+                        android:textSize="15dp" />
+                    <Button
+                        android:id="@+id/buttonBaidumap"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_marginRight="5dip"
+                        android:layout_weight="1"
+                        android:background="@drawable/add_to_car_button_normal"
+                        android:padding="10dip"
+                        android:text="地图导航"
+                                   android:layout_marginBottom="5dip"
+                        android:textColor="#FFFFFF"
+                        android:textSize="15dp" /> -->
+                            <Button
+                        android:id="@+id/buttonAddComments"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_marginRight="5dip"
+                        android:layout_weight="1"
+                        android:background="@drawable/add_to_car_button_normal"
+                        android:padding="10dip"
+                        android:text="参与评论"
+                        android:visibility="gone"
+                        android:textColor="#FFFFFF"
+                        android:textSize="15dp" />
+                    <Button
+                        android:id="@+id/buttonNowBuy"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_marginLeft="5dip"
+                        android:layout_weight="1"
+                        android:background="@drawable/add_to_car_button_normal"
+                        android:padding="10dip"
+                        android:text="地点定位"
+                        android:visibility="gone"
+                        android:textColor="#FFFFFF"
+                        android:textSize="15dp" />
+                </LinearLayout> 
+                
+                
+           <!--      <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dip"
+                    android:background="@drawable/num"
+                    android:orientation="vertical"
+                    android:padding="5dip" >
+                    <TextView
+                        android:id="@+id/textGoodsComments"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="5dip"
+                        android:text="游客评论"
+                        android:textColor="#6D6D6D"
+                        android:textSize="16dp" />
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/product_detail_new_line" />
+                    <net.travel.android.ui.custom.MyListView
+	                android:id="@+id/goodsCommentsListView"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:divider="@drawable/product_detail_new_line" />
+                </LinearLayout> -->
+                
+                
+	     <!--     <LinearLayout
+	            android:layout_width="fill_parent"
+	            android:layout_height="fill_parent"
+	            android:layout_margin="10dip"
+	            android:padding="5dip"
+	            
+	            android:orientation="horizontal" >
+	            
+	        </LinearLayout> -->
+                
+                
+          <!--       <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:focusable="false"
+                    android:clickable="false"
+                    android:padding="5dip" >
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dip"
+                        android:text="也许您还喜欢:"
+                        android:textColor="#909090"
+                        android:textSize="15dp" />
+                    <net.travel.android.ui.custom.MyGridView
+                        android:id="@+id/gridViewCommend"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dip"
+                        android:horizontalSpacing="5dip"
+                        android:verticalSpacing="5dip"
+                        android:cacheColorHint="#00000000"
+                        android:listSelector="#00000000"
+                        android:focusable="false"
+                        android:clickable="false"
+                        android:numColumns="3" />
+                </LinearLayout> -->
+                
+                
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dip"
+                    android:background="@drawable/num"
+                    android:visibility="gone"
+                    android:orientation="vertical"
+                    android:padding="5dip" >
+                    <TextView
+                        android:id="@+id/textGoodsComments"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="5dip"
+                        android:text="评论信息"
+                        android:textColor="#6D6D6D"
+                        android:textSize="16dp" />
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/product_detail_new_line" />
+                    <net.common.android.ui.custom.MyListView
+	                android:id="@+id/goodsCommentsListView"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:divider="@drawable/product_detail_new_line" />
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+        <ImageButton
+            android:id="@+id/imageBackButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="5dip"
+            android:layout_marginTop="5dip"
+            android:background="@drawable/am_shake_back" />
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="5dip"
+            android:layout_marginTop="5dip"
+            android:visibility="gone"
+            android:background="@drawable/shake_share_normal" />
+        <View 
+            android:id="@+id/footview"
+            android:layout_width="1dip"
+            android:layout_height="1dip"
+            android:layout_alignParentBottom="true"/>
+        <ImageButton
+            android:id="@+id/imageButtonFavoritesAdd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="15dip"
+            android:layout_marginBottom="15dip"
+            android:layout_alignParentRight="true"
+            android:layout_above="@id/footview"
+            android:padding="20dip"
+            android:background="@drawable/android_favorites_add" />
+    </RelativeLayout>
+</LinearLayout>

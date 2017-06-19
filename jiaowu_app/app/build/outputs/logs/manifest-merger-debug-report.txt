@@ -1,0 +1,857 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:2:1-453:12
+	package
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:7:5-9:40
+	android:targetSdkVersion
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:9:9-37
+		INJECTED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:15:5-84
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:15:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:18:22-72
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:21:22-72
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:26:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:28:5-76
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:28:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:30:22-73
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:31:5-73
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:31:22-70
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:32:5-69
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:32:22-66
+application
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:35:5-451:19
+	android:label
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:39:9-41
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:41:9-50
+	android:allowBackup
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:37:9-35
+	android:icon
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:38:9-50
+	android:theme
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:40:9-45
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:36:9-55
+meta-data#AA_DB_NAME
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:42:9-44:53
+	android:value
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:44:13-50
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:43:13-38
+meta-data#AA_DB_VERSION
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:45:9-47:33
+	android:value
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:47:13-30
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:46:13-41
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:48:9-50:64
+	android:value
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:50:13-61
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:49:13-52
+service#com.baidu.location.f
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:52:9-56:19
+	android:enabled
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:54:13-35
+	android:process
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:55:13-38
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:53:13-48
+activity#net.common.android.StartActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:58:9-67:20
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:61:13-49
+	android:label
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:60:13-45
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:59:13-60
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:62:13-66:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:63:17-69
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:63:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:65:17-77
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:65:27-74
+activity#net.common.android.MainActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:68:9-71:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:70:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:71:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:69:13-59
+activity#com.android.demo.notepad4.NoteEdit
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:72:9-75:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:74:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:75:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:73:13-62
+activity#com.android.demo.notepad4.NoteShow
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:76:9-79:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:78:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:79:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:77:13-62
+activity#com.android.demo.notepad4.Notepadv4
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:80:9-83:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:82:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:83:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:81:13-63
+activity#com.android.demo.notepad4.RingActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:84:9-87:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:86:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:87:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:85:13-66
+activity#net.common.android.ExpressInfoActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:88:9-91:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:90:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:91:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:89:13-66
+activity#net.common.android.Kuaidi
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:92:9-95:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:94:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:95:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:93:13-53
+activity#net.common.android.ExpressList
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:96:9-99:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:98:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:99:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:97:13-58
+activity#baidumap.RoutePlanDemo
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:100:9-103:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:102:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:103:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:101:13-50
+activity#baidumap.LocationActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:104:9-107:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:106:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:107:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:105:13-53
+activity#net.common.android.ui.type.TypeListViewActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:108:9-111:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:110:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:111:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:109:13-75
+activity#net.common.android.ui.type.TypeListViewActivity_
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:112:9-115:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:114:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:115:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:113:13-76
+activity#baidumap.BaidulocationActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:116:9-119:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:118:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:119:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:117:13-58
+activity#weather.BaiduWeatherActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:120:9-123:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:122:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:123:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:121:13-56
+activity#newcourse.CourseActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:124:9-127:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:126:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:127:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:125:13-52
+activity#newcourse.CourseActivity2
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:128:9-131:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:130:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:131:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:129:13-53
+activity#net.common.android.ui.Activity.QueryStudentSignInActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:133:9-136:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:135:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:136:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:134:13-85
+activity#net.common.android.ui.type.KechengListViewActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:137:9-140:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:139:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:140:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:138:13-78
+activity#net.common.android.ui.type.KechengListViewActivity2
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:141:9-144:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:143:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:144:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:142:13-79
+activity#net.common.android.ui.mystore.TBActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:145:9-148:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:147:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:148:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:146:13-68
+activity#net.common.android.ui.mystore.AnswerActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:149:9-152:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:151:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:152:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:150:13-72
+activity#net.common.android.ui.type.MessageViewActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:153:9-156:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:155:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:156:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:154:13-74
+activity#net.common.android.ui.type.OnlineShop
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:157:9-160:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:159:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:160:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:158:13-65
+activity#net.common.android.ui.type.HistoryListViewActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:161:9-164:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:163:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:164:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:162:13-78
+activity#net.common.android.NewMainActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:165:9-168:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:167:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:168:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:166:13-62
+activity#net.common.android.ui.mystore.CircleApplyActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:169:9-172:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:171:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:172:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:170:13-77
+activity#net.common.android.ui.mystore.PhoneAddActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:173:9-176:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:175:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:176:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:174:13-74
+activity#net.common.android.ui.mystore.MessageAddActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:177:9-180:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:179:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:180:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:178:13-76
+activity#net.common.android.ui.mystore.ChengjiActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:181:9-184:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:183:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:184:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:182:13-73
+activity#net.common.android.ui.mystore.KaoHeListViewActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:185:9-188:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:187:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:188:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:186:13-79
+activity#net.common.android.ui.mystore.VoiceSignListViewActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:189:9-192:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:191:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:192:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:190:13-83
+activity#net.common.android.ui.mystore.ChengjiListViewActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:193:9-196:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:195:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:196:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:194:13-81
+activity#net.common.android.ui.mystore.HuojiangListViewActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:197:9-200:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:199:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:200:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:198:13-82
+activity#net.common.android.ui.mystore.HuojiangActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:201:9-204:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:203:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:204:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:202:13-74
+activity#net.common.android.ui.mystore.SelfShotActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:205:9-208:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:207:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:208:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:206:13-74
+activity#net.common.android.ui.mystore.CommentsActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:209:9-212:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:211:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:212:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:210:13-74
+activity#net.common.android.ui.type.CircleThemeListViewActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:213:9-216:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:215:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:216:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:214:13-82
+activity#net.common.android.ui.type.GoodsDetailsActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:217:9-220:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:219:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:220:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:218:13-75
+activity#net.common.android.ui.type.QuesListViewActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:221:9-224:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:223:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:224:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:222:13-75
+activity#net.common.android.ui.mystore.OrderCommentActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:225:9-228:55
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:227:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:228:13-52
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:226:13-78
+activity#net.common.android.ui.home.HomeActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:229:9-232:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:231:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:232:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:230:13-67
+activity#net.common.android.ui.home.NewHomeActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:233:9-236:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:235:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:236:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:234:13-70
+activity#net.common.android.ui.home.WeikeTypeActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:237:9-240:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:239:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:240:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:238:13-72
+activity#net.common.android.ui.type.TypeAcitivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:241:9-244:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:243:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:244:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:242:13-68
+activity#net.common.android.ui.type.TypeNextActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:245:9-248:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:247:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:248:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:246:13-71
+activity#net.common.android.ui.type.PhoneListViewActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:249:9-252:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:251:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:252:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:250:13-76
+activity#net.common.android.ui.type.RoomListViewActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:253:9-256:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:255:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:256:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:254:13-75
+activity#net.common.android.ui.type.MessageListViewActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:257:9-260:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:259:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:260:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:258:13-78
+activity#net.common.android.ui.type.MeetBookListViewActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:261:9-264:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:263:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:264:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:262:13-79
+activity#net.common.android.ui.type.GoodsTabActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:265:9-268:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:267:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:268:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:266:13-71
+activity#net.common.android.ui.type.MeetRoomDetailsActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:269:9-272:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:271:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:272:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:270:13-78
+activity#net.common.android.ui.type.GoodsDetailsWebAcivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:273:9-276:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:275:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:276:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:274:13-77
+activity#net.common.android.ui.mystore.MyStoreActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:277:9-280:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:279:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:280:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:278:13-73
+activity#net.common.android.ui.mystore.EventAddActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:281:9-284:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:283:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:284:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:282:13-74
+activity#net.common.android.ui.mystore.RoomBookActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:285:9-288:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:287:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:288:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:286:13-74
+activity#net.common.android.ui.mystore.RegisteredActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:289:9-292:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:291:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:292:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:290:13-76
+activity#net.common.android.ui.mystore.PhoneRegisteredActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:293:9-296:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:295:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:296:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:294:13-81
+activity#net.common.android.ui.mystore.ICChargedActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:297:9-300:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:299:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:300:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:298:13-75
+activity#net.common.android.ui.mystore.FindPwdActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:301:9-304:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:303:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:304:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:302:13-73
+activity#net.common.android.ui.mystore.DownloadActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:305:9-308:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:307:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:308:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:306:13-74
+activity#net.common.android.ui.mystore.FavoritesListActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:309:9-312:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:311:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:312:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:310:13-79
+activity#net.common.android.ui.mystore.PayMentWebAcivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:313:9-316:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:315:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:316:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:314:13-75
+activity#net.common.android.ui.mystore.LoginActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:318:9-321:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:320:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:321:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:319:13-71
+activity#net.common.android.ui.Activity.StudentSignInActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:323:9-326:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:325:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:326:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:324:13-80
+activity#net.common.android.ui.Activity.QuerySignInActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:328:9-331:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:330:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:331:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:329:13-78
+activity#net.common.android.ui.Activity.ReleaseExercisesActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:334:9-337:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:336:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:337:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:335:13-83
+activity#net.common.android.ui.Activity.ExercisesActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:340:9-343:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:342:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:343:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:341:13-76
+activity#net.common.android.ui.Activity.TaskActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:346:9-349:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:348:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:349:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:347:13-71
+activity#net.common.android.ui.Activity.SendNotifiActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:352:9-355:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:354:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:355:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:353:13-77
+activity#net.common.android.ui.Activity.StudentMessageActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:358:9-361:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:360:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:361:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:359:13-81
+activity#net.common.android.ui.Activity.SendFeedBackActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:364:9-367:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:366:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:367:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:365:13-79
+activity#net.common.android.ui.Activity.FeedBackMessageActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:370:9-373:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:372:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:373:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:371:13-82
+activity#net.common.android.ui.mystore.AddressListActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:375:9-378:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:377:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:378:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:376:13-77
+activity#net.common.android.ui.mystore.FeekBaskActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:379:9-382:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:381:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:382:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:380:13-74
+activity#net.common.android.ui.mystore.AddressEditActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:383:9-386:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:385:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:386:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:384:13-77
+activity#net.common.android.ui.mystore.AddressAddActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:387:9-390:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:389:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:390:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:388:13-76
+activity#net.common.android.ui.mystore.OrderListActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:391:9-394:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:393:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:394:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:392:13-75
+activity#net.common.android.ui.mystore.SettingActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:395:9-398:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:397:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:398:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:396:13-73
+activity#net.common.android.ui.type.BuyStep1Activity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:399:9-402:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:401:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:402:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:400:13-71
+activity#net.common.android.ui.type.BuyAddressListActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:403:9-406:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:405:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:406:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:404:13-77
+activity#net.common.android.ui.mystore.HistoryBrowseListActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:407:9-410:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:409:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:410:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:408:13-83
+activity#net.travel.android.ui.search.SearchActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:411:9-414:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:413:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:414:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:412:13-71
+activity#net.common.android.ui.more.AboutActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:415:9-418:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:417:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:418:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:416:13-68
+activity#net.travel.android.ui.cart.CartActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:419:9-422:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:421:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:422:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:420:13-67
+activity#net.common.android.ui.mystore.HelpActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:423:9-426:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:425:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:426:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:424:13-70
+activity#net.common.android.ui.type.CircleThemeDetailViewActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:427:9-430:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:429:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:430:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:428:13-84
+activity#net.common.android.ui.type.NotificationDetailViewActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:431:9-434:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:433:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:434:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:432:13-85
+activity#net.common.android.ui.mystore.PubWishActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:435:9-438:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:437:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:438:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:436:13-73
+activity#net.common.android.ui.type.MyOrderListViewActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:439:9-442:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:441:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:442:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:440:13-78
+activity#net.common.android.ui.type.WishDetailViewActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:443:9-446:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:445:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:446:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:444:13-77
+activity#net.common.android.ui.type.WishReplyListViewActivity
+ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:447:9-450:57
+	android:screenOrientation
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:449:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:450:13-54
+	android:name
+		ADDED from D:\AndroidProject\jiaowu_app\app\src\main\AndroidManifest.xml:448:13-80

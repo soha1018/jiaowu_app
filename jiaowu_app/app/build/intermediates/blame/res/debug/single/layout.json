@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_goods_item.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\gallery_goods_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kechengbiao.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\kechengbiao.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listivew_article2_item.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\listivew_article2_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mansong_rules_listview_item.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\mansong_rules_listview_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_out.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\my_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\goods_details_view.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\goods_details_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\start_view.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\start_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item_icon_text_icon02.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\listview_item_icon_text_icon02.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\article_view4.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\article_view4.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_mystore.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\tab_mystore.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_feed_item.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\list_feed_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\date_time_dialog.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\date_time_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_query_signin.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\activity_query_signin.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\event_list.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\event_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_more_load.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\list_more_load.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item_product.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\listview_item_product.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edittext_dialog.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\edittext_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\expandable_listview_type_next_group_item.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\expandable_listview_type_next_group_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\more_about.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\more_about.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listivew_type1_item.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\listivew_type1_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feedback.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\activity_feedback.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listivew_type_item2.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\listivew_type_item2.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_release_exercises.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\activity_release_exercises.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\registered_view.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\registered_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listivew_article_item.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\listivew_article_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_spinner_item.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\simple_spinner_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_send_notifi.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\activity_send_notifi.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_student_signin.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\activity_student_signin.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feedback_message.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\activity_feedback_message.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\article3_list.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\article3_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_exercises_item.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\list_exercises_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_list.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\product_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_student_message.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\activity_student_message.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_querystudent_signin.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\activity_querystudent_signin.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_sign_item.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\list_sign_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\article_list.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\article_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listivew_ques_item.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\listivew_ques_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ques_list.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\ques_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_view.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\login_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_exercises.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\activity_exercises.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\activity_task.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\article_view.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\article_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\expandable_listview_type_next_child_item.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\expandable_listview_type_next_child_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listivew_type_item.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\listivew_type_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_list2.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\product_list2.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_messgae_item.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\list_messgae_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\type_list2.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\type_list2.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_view_item.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\list_view_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listivew_event_item.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\layout\\listivew_event_item.xml"
+    }
+]

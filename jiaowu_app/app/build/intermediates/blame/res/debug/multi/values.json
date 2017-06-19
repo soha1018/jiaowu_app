@@ -1,0 +1,1978 @@
+[
+    {
+        "outputFile": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 133,
+                    "endColumn": 19,
+                    "endOffset": 3586
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings_city_code.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 3591,
+                    "endLine": 265,
+                    "endColumn": 19,
+                    "endOffset": 7349
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings_city_code.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 266,
+                    "startColumn": 4,
+                    "startOffset": 7354,
+                    "endLine": 269,
+                    "endColumn": 19,
+                    "endOffset": 7458
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings_city_code.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 270,
+                    "startColumn": 4,
+                    "startOffset": 7463,
+                    "endLine": 272,
+                    "endColumn": 19,
+                    "endOffset": 7540
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings_city_code.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 7545,
+                    "endLine": 285,
+                    "endColumn": 19,
+                    "endOffset": 7859
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings_city_code.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 286,
+                    "startColumn": 4,
+                    "startOffset": 7864,
+                    "endLine": 298,
+                    "endColumn": 19,
+                    "endOffset": 8232
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings_city_code.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 299,
+                    "startColumn": 4,
+                    "startOffset": 8237,
+                    "endLine": 302,
+                    "endColumn": 19,
+                    "endOffset": 8334
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 303,
+                    "startColumn": 4,
+                    "startOffset": 8339,
+                    "endColumn": 44,
+                    "endOffset": 8379
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 304,
+                    "startColumn": 4,
+                    "startOffset": 8384,
+                    "endColumn": 42,
+                    "endOffset": 8422
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 305,
+                    "startColumn": 4,
+                    "startOffset": 8427,
+                    "endColumn": 38,
+                    "endOffset": 8461
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 306,
+                    "startColumn": 4,
+                    "startOffset": 8466,
+                    "endColumn": 45,
+                    "endOffset": 8507
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 307,
+                    "startColumn": 4,
+                    "startOffset": 8512,
+                    "endColumn": 40,
+                    "endOffset": 8548
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 308,
+                    "startColumn": 4,
+                    "startOffset": 8553,
+                    "endColumn": 41,
+                    "endOffset": 8590
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 309,
+                    "startColumn": 4,
+                    "startOffset": 8595,
+                    "endColumn": 39,
+                    "endOffset": 8630
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 310,
+                    "startColumn": 4,
+                    "startOffset": 8635,
+                    "endColumn": 39,
+                    "endOffset": 8670
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 311,
+                    "startColumn": 4,
+                    "startOffset": 8675,
+                    "endColumn": 39,
+                    "endOffset": 8710
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 312,
+                    "startColumn": 4,
+                    "startOffset": 8715,
+                    "endColumn": 41,
+                    "endOffset": 8752
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 313,
+                    "startColumn": 4,
+                    "startOffset": 8757,
+                    "endColumn": 53,
+                    "endOffset": 8806
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 314,
+                    "startColumn": 4,
+                    "startOffset": 8811,
+                    "endColumn": 50,
+                    "endOffset": 8857
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 315,
+                    "startColumn": 4,
+                    "startOffset": 8862,
+                    "endColumn": 54,
+                    "endOffset": 8912
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 316,
+                    "startColumn": 4,
+                    "startOffset": 8917,
+                    "endColumn": 49,
+                    "endOffset": 8962
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 317,
+                    "startColumn": 4,
+                    "startOffset": 8967,
+                    "endColumn": 42,
+                    "endOffset": 9005
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 318,
+                    "startColumn": 4,
+                    "startOffset": 9010,
+                    "endColumn": 42,
+                    "endOffset": 9048
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 319,
+                    "startColumn": 4,
+                    "startOffset": 9053,
+                    "endColumn": 43,
+                    "endOffset": 9092
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 320,
+                    "startColumn": 4,
+                    "startOffset": 9097,
+                    "endColumn": 42,
+                    "endOffset": 9135
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 321,
+                    "startColumn": 4,
+                    "startOffset": 9140,
+                    "endColumn": 43,
+                    "endOffset": 9179
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 322,
+                    "startColumn": 4,
+                    "startOffset": 9184,
+                    "endColumn": 44,
+                    "endOffset": 9224
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 323,
+                    "startColumn": 4,
+                    "startOffset": 9229,
+                    "endColumn": 44,
+                    "endOffset": 9269
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 324,
+                    "startColumn": 4,
+                    "startOffset": 9274,
+                    "endColumn": 48,
+                    "endOffset": 9318
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 325,
+                    "startColumn": 4,
+                    "startOffset": 9323,
+                    "endColumn": 45,
+                    "endOffset": 9364
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 326,
+                    "startColumn": 4,
+                    "startOffset": 9369,
+                    "endColumn": 50,
+                    "endOffset": 9415
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 327,
+                    "startColumn": 4,
+                    "startOffset": 9420,
+                    "endColumn": 41,
+                    "endOffset": 9457
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 328,
+                    "startColumn": 4,
+                    "startOffset": 9462,
+                    "endColumn": 38,
+                    "endOffset": 9496
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 329,
+                    "startColumn": 4,
+                    "startOffset": 9501,
+                    "endColumn": 40,
+                    "endOffset": 9537
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 330,
+                    "startColumn": 4,
+                    "startOffset": 9542,
+                    "endColumn": 39,
+                    "endOffset": 9577
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 331,
+                    "startColumn": 4,
+                    "startOffset": 9582,
+                    "endColumn": 38,
+                    "endOffset": 9616
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 332,
+                    "startColumn": 4,
+                    "startOffset": 9621,
+                    "endColumn": 52,
+                    "endOffset": 9669
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 333,
+                    "startColumn": 4,
+                    "startOffset": 9674,
+                    "endColumn": 50,
+                    "endOffset": 9720
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 334,
+                    "startColumn": 4,
+                    "startOffset": 9725,
+                    "endColumn": 51,
+                    "endOffset": 9772
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 335,
+                    "startColumn": 4,
+                    "startOffset": 9777,
+                    "endColumn": 51,
+                    "endOffset": 9824
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 336,
+                    "startColumn": 4,
+                    "startOffset": 9829,
+                    "endColumn": 50,
+                    "endOffset": 9875
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 337,
+                    "startColumn": 4,
+                    "startOffset": 9880,
+                    "endColumn": 52,
+                    "endOffset": 9928
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 338,
+                    "startColumn": 4,
+                    "startOffset": 9933,
+                    "endColumn": 53,
+                    "endOffset": 9982
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 339,
+                    "startColumn": 4,
+                    "startOffset": 9987,
+                    "endColumn": 47,
+                    "endOffset": 10030
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 340,
+                    "startColumn": 4,
+                    "startOffset": 10035,
+                    "endColumn": 49,
+                    "endOffset": 10080
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 341,
+                    "startColumn": 4,
+                    "startOffset": 10085,
+                    "endColumn": 50,
+                    "endOffset": 10131
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 342,
+                    "startColumn": 4,
+                    "startOffset": 10136,
+                    "endColumn": 53,
+                    "endOffset": 10185
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 343,
+                    "startColumn": 4,
+                    "startOffset": 10190,
+                    "endColumn": 53,
+                    "endOffset": 10239
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 344,
+                    "startColumn": 4,
+                    "startOffset": 10244,
+                    "endColumn": 43,
+                    "endOffset": 10283
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 345,
+                    "startColumn": 4,
+                    "startOffset": 10288,
+                    "endColumn": 39,
+                    "endOffset": 10323
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 346,
+                    "startColumn": 4,
+                    "startOffset": 10328,
+                    "endColumn": 46,
+                    "endOffset": 10370
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 347,
+                    "startColumn": 4,
+                    "startOffset": 10375,
+                    "endColumn": 46,
+                    "endOffset": 10417
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 348,
+                    "startColumn": 4,
+                    "startOffset": 10422,
+                    "endColumn": 51,
+                    "endOffset": 10469
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 349,
+                    "startColumn": 4,
+                    "startOffset": 10474,
+                    "endColumn": 43,
+                    "endOffset": 10513
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 350,
+                    "startColumn": 4,
+                    "startOffset": 10518,
+                    "endColumn": 44,
+                    "endOffset": 10558
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 351,
+                    "startColumn": 4,
+                    "startOffset": 10563,
+                    "endColumn": 45,
+                    "endOffset": 10604
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 352,
+                    "startColumn": 4,
+                    "startOffset": 10609,
+                    "endColumn": 57,
+                    "endOffset": 10662
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 353,
+                    "startColumn": 4,
+                    "startOffset": 10667,
+                    "endColumn": 49,
+                    "endOffset": 10712
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 354,
+                    "startColumn": 4,
+                    "startOffset": 10717,
+                    "endColumn": 53,
+                    "endOffset": 10766
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 355,
+                    "startColumn": 4,
+                    "startOffset": 10771,
+                    "endColumn": 42,
+                    "endOffset": 10809
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 676,
+                        "endColumn": 42,
+                        "endOffset": 714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 356,
+                    "startColumn": 4,
+                    "startOffset": 10814,
+                    "endColumn": 43,
+                    "endOffset": 10853
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 720,
+                        "endColumn": 43,
+                        "endOffset": 759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 357,
+                    "startColumn": 4,
+                    "startOffset": 10858,
+                    "endColumn": 41,
+                    "endOffset": 10895
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 358,
+                    "startColumn": 4,
+                    "startOffset": 10900,
+                    "endColumn": 40,
+                    "endOffset": 10936
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 359,
+                    "startColumn": 4,
+                    "startOffset": 10941,
+                    "endColumn": 40,
+                    "endOffset": 10977
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 360,
+                    "startColumn": 4,
+                    "startOffset": 10982,
+                    "endColumn": 37,
+                    "endOffset": 11015
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 361,
+                    "startColumn": 4,
+                    "startOffset": 11020,
+                    "endColumn": 45,
+                    "endOffset": 11061
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 362,
+                    "startColumn": 4,
+                    "startOffset": 11066,
+                    "endColumn": 41,
+                    "endOffset": 11103
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 363,
+                    "startColumn": 4,
+                    "startOffset": 11108,
+                    "endColumn": 41,
+                    "endOffset": 11145
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 364,
+                    "startColumn": 4,
+                    "startOffset": 11150,
+                    "endColumn": 38,
+                    "endOffset": 11184
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 365,
+                    "startColumn": 4,
+                    "startOffset": 11189,
+                    "endColumn": 43,
+                    "endOffset": 11228
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 366,
+                    "startColumn": 4,
+                    "startOffset": 11233,
+                    "endColumn": 42,
+                    "endOffset": 11271
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 367,
+                    "startColumn": 4,
+                    "startOffset": 11276,
+                    "endColumn": 42,
+                    "endOffset": 11314
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 368,
+                    "startColumn": 4,
+                    "startOffset": 11319,
+                    "endColumn": 48,
+                    "endOffset": 11363
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 369,
+                    "startColumn": 4,
+                    "startOffset": 11368,
+                    "endColumn": 48,
+                    "endOffset": 11412
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 370,
+                    "startColumn": 4,
+                    "startOffset": 11417,
+                    "endColumn": 47,
+                    "endOffset": 11460
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 371,
+                    "startColumn": 4,
+                    "startOffset": 11465,
+                    "endColumn": 52,
+                    "endOffset": 11513
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 372,
+                    "startColumn": 4,
+                    "startOffset": 11518,
+                    "endColumn": 41,
+                    "endOffset": 11555
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 373,
+                    "startColumn": 4,
+                    "startOffset": 11560,
+                    "endColumn": 42,
+                    "endOffset": 11598
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 374,
+                    "startColumn": 4,
+                    "startOffset": 11603,
+                    "endColumn": 57,
+                    "endOffset": 11656
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 375,
+                    "startColumn": 4,
+                    "startOffset": 11661,
+                    "endColumn": 55,
+                    "endOffset": 11712
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 376,
+                    "startColumn": 4,
+                    "startOffset": 11717,
+                    "endColumn": 45,
+                    "endOffset": 11758
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 377,
+                    "startColumn": 4,
+                    "startOffset": 11763,
+                    "endColumn": 45,
+                    "endOffset": 11804
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 378,
+                    "startColumn": 4,
+                    "startOffset": 11809,
+                    "endColumn": 44,
+                    "endOffset": 11849
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 379,
+                    "startColumn": 4,
+                    "startOffset": 11854,
+                    "endColumn": 38,
+                    "endOffset": 11888
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 380,
+                    "startColumn": 4,
+                    "startOffset": 11893,
+                    "endColumn": 52,
+                    "endOffset": 11941
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 381,
+                    "startColumn": 4,
+                    "startOffset": 11946,
+                    "endColumn": 43,
+                    "endOffset": 11985
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 382,
+                    "startColumn": 4,
+                    "startOffset": 11990,
+                    "endColumn": 69,
+                    "endOffset": 12055
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 383,
+                    "startColumn": 4,
+                    "startOffset": 12060,
+                    "endColumn": 43,
+                    "endOffset": 12099
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 384,
+                    "startColumn": 4,
+                    "startOffset": 12104,
+                    "endColumn": 36,
+                    "endOffset": 12136
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 385,
+                    "startColumn": 4,
+                    "startOffset": 12141,
+                    "endColumn": 41,
+                    "endOffset": 12178
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 386,
+                    "startColumn": 4,
+                    "startOffset": 12183,
+                    "endColumn": 52,
+                    "endOffset": 12231
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 387,
+                    "startColumn": 4,
+                    "startOffset": 12236,
+                    "endColumn": 39,
+                    "endOffset": 12271
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 388,
+                    "startColumn": 4,
+                    "startOffset": 12276,
+                    "endColumn": 59,
+                    "endOffset": 12331
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 389,
+                    "startColumn": 4,
+                    "startOffset": 12336,
+                    "endColumn": 64,
+                    "endOffset": 12396
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 390,
+                    "startColumn": 4,
+                    "startOffset": 12401,
+                    "endColumn": 56,
+                    "endOffset": 12453
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 391,
+                    "startColumn": 4,
+                    "startOffset": 12458,
+                    "endColumn": 62,
+                    "endOffset": 12516
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 392,
+                    "startColumn": 4,
+                    "startOffset": 12521,
+                    "endColumn": 54,
+                    "endOffset": 12571
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 393,
+                    "startColumn": 4,
+                    "startOffset": 12576,
+                    "endColumn": 54,
+                    "endOffset": 12626
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 394,
+                    "startColumn": 4,
+                    "startOffset": 12631,
+                    "endColumn": 54,
+                    "endOffset": 12681
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 395,
+                    "startColumn": 4,
+                    "startOffset": 12686,
+                    "endColumn": 54,
+                    "endOffset": 12736
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 396,
+                    "startColumn": 4,
+                    "startOffset": 12741,
+                    "endColumn": 56,
+                    "endOffset": 12793
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 397,
+                    "startColumn": 4,
+                    "startOffset": 12798,
+                    "endColumn": 52,
+                    "endOffset": 12846
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 398,
+                    "startColumn": 4,
+                    "startOffset": 12851,
+                    "endColumn": 53,
+                    "endOffset": 12900
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 399,
+                    "startColumn": 4,
+                    "startOffset": 12905,
+                    "endColumn": 51,
+                    "endOffset": 12952
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 400,
+                    "startColumn": 4,
+                    "startOffset": 12957,
+                    "endColumn": 56,
+                    "endOffset": 13009
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 401,
+                    "startColumn": 4,
+                    "startOffset": 13014,
+                    "endColumn": 53,
+                    "endOffset": 13063
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 402,
+                    "startColumn": 4,
+                    "startOffset": 13068,
+                    "endColumn": 42,
+                    "endOffset": 13106
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 403,
+                    "startColumn": 4,
+                    "startOffset": 13111,
+                    "endColumn": 44,
+                    "endOffset": 13151
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 404,
+                    "startColumn": 4,
+                    "startOffset": 13156,
+                    "endColumn": 42,
+                    "endOffset": 13194
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 405,
+                    "startColumn": 4,
+                    "startOffset": 13199,
+                    "endColumn": 40,
+                    "endOffset": 13235
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 406,
+                    "startColumn": 4,
+                    "startOffset": 13240,
+                    "endColumn": 44,
+                    "endOffset": 13280
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 407,
+                    "startColumn": 4,
+                    "startOffset": 13285,
+                    "endColumn": 41,
+                    "endOffset": 13322
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 408,
+                    "startColumn": 4,
+                    "startOffset": 13327,
+                    "endColumn": 40,
+                    "endOffset": 13363
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 409,
+                    "startColumn": 4,
+                    "startOffset": 13368,
+                    "endColumn": 42,
+                    "endOffset": 13406
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 410,
+                    "startColumn": 4,
+                    "startOffset": 13411,
+                    "endColumn": 44,
+                    "endOffset": 13451
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 411,
+                    "startColumn": 4,
+                    "startOffset": 13456,
+                    "endColumn": 47,
+                    "endOffset": 13499
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 412,
+                    "startColumn": 4,
+                    "startOffset": 13504,
+                    "endColumn": 47,
+                    "endOffset": 13547
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 413,
+                    "startColumn": 4,
+                    "startOffset": 13552,
+                    "endColumn": 50,
+                    "endOffset": 13598
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 414,
+                    "startColumn": 4,
+                    "startOffset": 13603,
+                    "endColumn": 45,
+                    "endOffset": 13644
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 415,
+                    "startColumn": 4,
+                    "startOffset": 13649,
+                    "endColumn": 48,
+                    "endOffset": 13693
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 416,
+                    "startColumn": 4,
+                    "startOffset": 13698,
+                    "endColumn": 55,
+                    "endOffset": 13749
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 417,
+                    "startColumn": 4,
+                    "startOffset": 13754,
+                    "endColumn": 55,
+                    "endOffset": 13805
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 418,
+                    "startColumn": 4,
+                    "startOffset": 13810,
+                    "endColumn": 48,
+                    "endOffset": 13854
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 419,
+                    "startColumn": 4,
+                    "startOffset": 13859,
+                    "endColumn": 41,
+                    "endOffset": 13896
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 420,
+                    "startColumn": 4,
+                    "startOffset": 13901,
+                    "endColumn": 46,
+                    "endOffset": 13943
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 421,
+                    "startColumn": 4,
+                    "startOffset": 13948,
+                    "endColumn": 39,
+                    "endOffset": 13983
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 422,
+                    "startColumn": 4,
+                    "startOffset": 13988,
+                    "endColumn": 53,
+                    "endOffset": 14037
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 423,
+                    "startColumn": 4,
+                    "startOffset": 14042,
+                    "endColumn": 53,
+                    "endOffset": 14091
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 424,
+                    "startColumn": 4,
+                    "startOffset": 14096,
+                    "endColumn": 54,
+                    "endOffset": 14146
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 425,
+                    "startColumn": 4,
+                    "startOffset": 14151,
+                    "endColumn": 50,
+                    "endOffset": 14197
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 426,
+                    "startColumn": 4,
+                    "startOffset": 14202,
+                    "endColumn": 53,
+                    "endOffset": 14251
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 427,
+                    "startColumn": 4,
+                    "startOffset": 14256,
+                    "endColumn": 55,
+                    "endOffset": 14307
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 428,
+                    "startColumn": 4,
+                    "startOffset": 14312,
+                    "endColumn": 56,
+                    "endOffset": 14364
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 429,
+                    "startColumn": 4,
+                    "startOffset": 14369,
+                    "endColumn": 51,
+                    "endOffset": 14416
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 430,
+                    "startColumn": 4,
+                    "startOffset": 14421,
+                    "endColumn": 59,
+                    "endOffset": 14476
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 431,
+                    "startColumn": 4,
+                    "startOffset": 14481,
+                    "endColumn": 55,
+                    "endOffset": 14532
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 432,
+                    "startColumn": 4,
+                    "startOffset": 14537,
+                    "endColumn": 56,
+                    "endOffset": 14589
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 433,
+                    "startColumn": 4,
+                    "startOffset": 14594,
+                    "endColumn": 55,
+                    "endOffset": 14645
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 434,
+                    "startColumn": 4,
+                    "startOffset": 14650,
+                    "endColumn": 55,
+                    "endOffset": 14701
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 435,
+                    "startColumn": 4,
+                    "startOffset": 14706,
+                    "endColumn": 57,
+                    "endOffset": 14759
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 436,
+                    "startColumn": 4,
+                    "startOffset": 14764,
+                    "endColumn": 49,
+                    "endOffset": 14809
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 437,
+                    "startColumn": 4,
+                    "startOffset": 14814,
+                    "endColumn": 51,
+                    "endOffset": 14861
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 438,
+                    "startColumn": 4,
+                    "startOffset": 14866,
+                    "endColumn": 49,
+                    "endOffset": 14911
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 439,
+                    "startColumn": 4,
+                    "startOffset": 14916,
+                    "endColumn": 58,
+                    "endOffset": 14970
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 440,
+                    "startColumn": 4,
+                    "startOffset": 14975,
+                    "endColumn": 59,
+                    "endOffset": 15030
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 441,
+                    "startColumn": 4,
+                    "startOffset": 15035,
+                    "endColumn": 50,
+                    "endOffset": 15081
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 442,
+                    "startColumn": 4,
+                    "startOffset": 15086,
+                    "endColumn": 52,
+                    "endOffset": 15134
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 443,
+                    "startColumn": 4,
+                    "startOffset": 15139,
+                    "endColumn": 48,
+                    "endOffset": 15183
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 444,
+                    "startColumn": 4,
+                    "startOffset": 15188,
+                    "endColumn": 44,
+                    "endOffset": 15228
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 445,
+                    "startColumn": 4,
+                    "startOffset": 15233,
+                    "endColumn": 45,
+                    "endOffset": 15274
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 446,
+                    "startColumn": 4,
+                    "startOffset": 15279,
+                    "endColumn": 44,
+                    "endOffset": 15319
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 447,
+                    "startColumn": 4,
+                    "startOffset": 15324,
+                    "endColumn": 79,
+                    "endOffset": 15399
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 448,
+                    "startColumn": 4,
+                    "startOffset": 15404,
+                    "endColumn": 50,
+                    "endOffset": 15450
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 449,
+                    "startColumn": 4,
+                    "startOffset": 15455,
+                    "endColumn": 51,
+                    "endOffset": 15502
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 450,
+                    "startColumn": 4,
+                    "startOffset": 15507,
+                    "endColumn": 37,
+                    "endOffset": 15540
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 451,
+                    "startColumn": 4,
+                    "startOffset": 15545,
+                    "endColumn": 53,
+                    "endOffset": 15594
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 452,
+                    "startColumn": 4,
+                    "startOffset": 15599,
+                    "endLine": 454,
+                    "endColumn": 12,
+                    "endOffset": 15677
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 455,
+                    "startColumn": 4,
+                    "startOffset": 15682,
+                    "endLine": 457,
+                    "endColumn": 12,
+                    "endOffset": 15749
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 458,
+                    "startColumn": 4,
+                    "startOffset": 15754,
+                    "endLine": 474,
+                    "endColumn": 12,
+                    "endOffset": 16688
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 475,
+                    "startColumn": 4,
+                    "startOffset": 16693,
+                    "endLine": 482,
+                    "endColumn": 12,
+                    "endOffset": 17149
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 483,
+                    "startColumn": 4,
+                    "startOffset": 17154,
+                    "endLine": 498,
+                    "endColumn": 12,
+                    "endOffset": 18025
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 499,
+                    "startColumn": 4,
+                    "startOffset": 18030,
+                    "endLine": 503,
+                    "endColumn": 12,
+                    "endOffset": 18282
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

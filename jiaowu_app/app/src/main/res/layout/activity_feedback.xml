@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#F5F5F5"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/title"
+        android:background="#0855C2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:gravity="center"
+        android:padding="5dip"
+        android:text="意见反馈"
+        android:textColor="#FFFFFF"
+        android:textSize="18dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="标题："
+            android:textColor="#000"
+            android:textSize="18sp"/>
+
+        <EditText
+            android:id="@+id/et_feed_title"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dip"
+            android:hint="请输入标题"
+            android:inputType="text"
+            android:padding="10dip"
+            android:singleLine="true"
+            android:textColor="#6d6d6d"
+            android:textSize="15dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:textColor="@color/blue1"
+            android:text="问题和意见"
+            android:layout_marginLeft="10dp"
+            android:textSize="16sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <EditText
+            android:layout_marginTop="10dp"
+            android:gravity="start"
+            android:id="@+id/et_nitifi_content"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_margin="5dip"
+            android:hint="请输入至少10个字以上的描述"
+            android:inputType="textMultiLine"
+            android:padding="10dip"
+            android:singleLine="true"
+            android:textColor="#6d6d6d"
+            android:textSize="15dp"/>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv3"
+        android:layout_gravity="end"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:text="2017年6月14日14:43:31"
+        android:layout_marginRight="8dp"
+        android:textColor="#000"
+        android:textSize="16sp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="反馈接收人："
+            android:textColor="#000"
+            android:textSize="22sp"/>
+
+        <EditText
+            android:id="@+id/et_feed_user"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dip"
+            android:hint="请输入接收人"
+            android:inputType="text"
+            android:padding="10dip"
+            android:singleLine="true"
+            android:textColor="#6d6d6d"
+            android:textSize="15dp"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_feed_commit"
+        android:layout_marginTop="15dp"
+        android:text="提交"
+        android:textSize="18sp"
+        android:background="@drawable/login_bg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+
+</LinearLayout>

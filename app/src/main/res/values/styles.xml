@@ -1,0 +1,73 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    
+     <!-- 整个应用的基本主题 -->
+    <style name="MyTheme.Basic" parent="@android:style/Theme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:screenOrientation">portrait</item>
+    </style>
+    
+    <!-- tab栏上的按钮样式 -->
+    <style name="MyTabButton">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">@color/main_index_textcolor_bg</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">0.00000075dip</item>
+        <item name="android:layout_marginRight">0.00000000dip</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:button">@null</item>
+        <item name="android:paddingTop">10.0dip</item>
+        <item name="android:paddingLeft">3.0dip</item>
+        <item name="android:paddingRight">3.0dip</item>
+        <item name="android:paddingBottom">3.0dip</item>
+        <item name="android:drawablePadding">3.0dip</item>
+    </style>
+    
+     <!-- tab栏上的按钮样式 -->
+    <style name="GoodsTabButton">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">@color/goods_tab_textcolor_bg</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginLeft">0.00000075dip</item>
+        <item name="android:layout_marginRight">0.00000000dip</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:background">@drawable/goods_tab_btn_bg</item>
+        <item name="android:button">@null</item>
+        <item name="android:paddingTop">3.0dip</item>
+        <item name="android:paddingLeft">3.0dip</item>
+        <item name="android:paddingRight">3.0dip</item>
+        <item name="android:paddingBottom">3.0dip</item>
+        <item name="android:drawablePadding">2.0dip</item>
+    </style>
+    
+     <!-- 加载数据时的等待对话框(透明背景色) -->
+    <style name="MyProgressDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowFrame">@color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+</resources>

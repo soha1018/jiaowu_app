@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\AndroidProject\jiaowu_app\app\src\main\jniLibs"><file name="armeabi/libbmob.so" path="D:\AndroidProject\jiaowu_app\app\src\main\jniLibs\armeabi\libbmob.so"/><file name="armeabi/libBmobStat.so" path="D:\AndroidProject\jiaowu_app\app\src\main\jniLibs\armeabi\libBmobStat.so"/></source></dataSet><dataSet config="debug"><source path="D:\AndroidProject\jiaowu_app\app\src\debug\jniLibs"/></dataSet></merger>

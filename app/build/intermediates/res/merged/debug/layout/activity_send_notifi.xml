@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5F5F5"
+    android:orientation="vertical">
+
+    <TextView
+        android:background="#0855C2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:gravity="center"
+        android:padding="5dip"
+        android:text="发布通知"
+        android:textColor="#FFFFFF"
+        android:textSize="18dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="标题："
+            android:textColor="#000"
+            android:textSize="22sp"/>
+
+        <EditText
+            android:id="@+id/et_nitifi_title"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dip"
+            android:hint="请输入标题"
+            android:inputType="text"
+            android:padding="10dip"
+            android:singleLine="true"
+            android:textColor="#6d6d6d"
+            android:textSize="15dp"/>
+    </LinearLayout>
+
+
+    <EditText
+        android:gravity="start"
+        android:id="@+id/et_nitifi_content"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_margin="5dip"
+        android:hint="请输入内容"
+        android:inputType="textMultiLine"
+        android:padding="10dip"
+        android:singleLine="true"
+        android:textColor="#6d6d6d"
+        android:textSize="15dp"/>
+    <TextView
+        android:id="@+id/tv_notifi_time"
+        android:layout_marginRight="10dp"
+        android:layout_gravity="end"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:text="2017年6月14日12:18:38"
+        android:textColor="#000"
+        android:textSize="18sp"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="请输入班级："
+            android:textColor="#000"
+            android:textSize="20sp"/>
+
+        <EditText
+            android:id="@+id/et_nitifi_grade"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dip"
+            android:hint="请输入班级"
+            android:inputType="number"
+            android:padding="10dip"
+            android:singleLine="true"
+            android:textColor="#6d6d6d"
+            android:textSize="15dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="发送人："
+            android:textColor="#000"
+            android:textSize="20sp"/>
+
+        <EditText
+            android:id="@+id/et_nitifi_user"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dip"
+            android:hint="请输入您的名字"
+            android:inputType="text"
+            android:padding="10dip"
+            android:singleLine="true"
+            android:textColor="#6d6d6d"
+            android:textSize="15dp"/>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="指定的时间发送："
+            android:textColor="#000"
+            android:textSize="20sp"/>
+
+        <Spinner
+            android:id="@+id/sp_send"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/btn_nitifi"
+        android:text="发送通知"
+        android:textSize="20sp"
+        android:background="@drawable/login_bg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

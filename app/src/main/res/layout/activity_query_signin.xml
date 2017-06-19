@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5F5F5"
+    android:orientation="vertical">
+
+
+
+    <LinearLayout
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:textSize="24sp"
+            android:textColor="@color/black"
+            android:text="@string/query_signin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/et_grade"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dip"
+                android:inputType="number"
+                android:hint="请输入班级"
+                android:padding="10dip"
+                android:textColor="#6d6d6d"
+                android:textSize="15dp" />
+
+            <Button
+                android:id="@+id/btn_query"
+                android:textSize="20sp"
+                android:background="@drawable/login_bg"
+                android:text="查询"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:padding="5dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:text="班级"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:background="@drawable/text_bg"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"/>
+
+            <TextView
+                android:text="姓名"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:background="@drawable/text_bg"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"/>
+            <TextView
+                android:text="学号"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:background="@drawable/text_bg"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"/>
+
+            <TextView
+                android:text="课程"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:background="@drawable/text_bg"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"/>
+
+        </LinearLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:padding="10dp"
+                android:visibility="gone"
+                android:layout_gravity="center"
+                android:id="@+id/tv_default"
+                android:text="现在还没有学生签到"
+                android:textColor="#000"
+                android:textSize="22sp"
+                android:gravity="center"
+                android:background="@drawable/text_bg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <ListView
+                android:id="@+id/lv_sign"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+        </FrameLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,3122 @@
+[
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_xxls.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_xxls.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product_summary_add_btn_disable.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\product_summary_add_btn_disable.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_share_normal.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\shake_share_normal.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product_detail_color_size_press.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\product_detail_color_size_press.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s002_.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\s002_.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_ningbo.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_ningbo.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\makeup_top100.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\makeup_top100.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_icon.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\camera_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_hcp.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_hcp.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico04.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico04.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_user_portrait.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\default_user_portrait.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_shenghuoriyong.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_shenghuoriyong.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test_photo07.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\test_photo07.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pay_type_bg.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\pay_type_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_logo.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\home_logo.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test_photo.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\test_photo.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_tc01.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_tc01.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_main_searchbutton_normal.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\tab_main_searchbutton_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_wkwgpt01.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_wkwgpt01.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_sc.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_sc.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goods_tab_man_button_p.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\goods_tab_man_button_p.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\location_tips.9.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\location_tips.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\expandable_body_line.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\expandable_body_line.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s004_.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\s004_.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shopnc_start_bg.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\shopnc_start_bg.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_dingcan.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_dingcan.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc.9.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\abc.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goods_tab_btn_bg.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\goods_tab_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_wish.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_launcher_wish.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico31.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico31.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\save.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\save.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_favorites_add.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\android_favorites_add.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product_summary_add_btn_disable.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\product_summary_add_btn_disable.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s007_.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\s007_.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\type_second_gray_point.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\type_second_gray_point.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_jggh01.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_jggh01.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\point_start.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\point_start.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mobile_top100.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\mobile_top100.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_lessionhelp_.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_lessionhelp_.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_geo.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_geo.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_ningbo.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_ningbo.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_share_normal.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\shake_share_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_pressed.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_preference_pressed.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_ndxl.PNG",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_ndxl.PNG"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_edit_top_normal.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_preference_edit_top_normal.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_close_icon.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\app_close_icon.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_xxls.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_category_xxls.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product_summary_add_btn_pressed.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\product_summary_add_btn_pressed.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\star_metro_orang.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\star_metro_orang.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_main_cartbutton_normal.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\tab_main_cartbutton_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico22.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico22.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s009_.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\s009_.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_index_mystore_bg.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\main_index_mystore_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_markb.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_markb.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_main_cartbutton_normal2.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\tab_main_cartbutton_normal2.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_rupinyinliao.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_rupinyinliao.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_product_num_des_down.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\edit_product_num_des_down.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mystore_vouchers.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\mystore_vouchers.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_plain.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\list_item_plain.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zoom.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\zoom.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_hancun.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_hancun.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test_photo05.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\test_photo05.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kuaidi_list9.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\kuaidi_list9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\food_top100.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\food_top100.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\point_enable.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\point_enable.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\signin.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\signin.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_last.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\list_item_last.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main1_.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\main1_.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_focused.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\bg_edittext_focused.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wish_list.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wish_list.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goods_tab_new_button_n.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\goods_tab_new_button_n.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_submit_button.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\login_submit_button.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s11_.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\s11_.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_username_icon.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\login_username_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shopnc_start_bg1224.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\shopnc_start_bg1224.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goods_tab_num_bg.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\goods_tab_num_bg.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bcd.9.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\bcd.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_new_home_press.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_tab_new_home_press.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_single_normal.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_preference_single_normal.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_help.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_help.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_baihuoshangcheng.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_baihuoshangcheng.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product_price_jiang.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\product_price_jiang.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goods_tab_num_button_n.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\goods_tab_num_button_n.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_product_num_add_normal.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\edit_product_num_add_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_dingcan.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_dingcan.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\book_top100.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\book_top100.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\showordertitle.PNG",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\showordertitle.PNG"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_rpyl01.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_rpyl01.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_main_typebutton_normal.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\tab_main_typebutton_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_last_normal.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_preference_last_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product_detail_color_size_press.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\product_detail_color_size_press.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_markf.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_markf.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_ningbo1.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_ningbo1.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_en.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_en.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame_search.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\frame_search.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_ly01.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_ly01.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tb_bg_login_input_hl.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\tb_bg_login_input_hl.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico30.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico30.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico20.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico20.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo2x.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\logo2x.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goods_tab_price_button_p_2.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\goods_tab_price_button_p_2.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\divid.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\divid.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_mm.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_mm.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_index_home_bg.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\main_index_home_bg.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_marke.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_marke.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_goods_image_240.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\default_goods_image_240.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\big_promotion_sale_label.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\big_promotion_sale_label.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_comment_like_click.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\theme_comment_like_click.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\am_shake_back.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\am_shake_back.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico22.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico22.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_health.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_health.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_border.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\text_border.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_bg_.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_bg_.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico29.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico29.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico32.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico32.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_hzp.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_hzp.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_border_select.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\text_border_select.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_new_search_normal.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_tab_new_search_normal.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_new_home_nomal.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_tab_new_home_nomal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_xinxianguoshu.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_xinxianguoshu.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico19.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico19.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_press.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_press.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_rpyl.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_category_rpyl.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cancel.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\cancel.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico06.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico06.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s006_.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\s006_.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_psw_icon.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\login_psw_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_textcolor_bg.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\home_textcolor_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico04.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico04.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_geo.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_geo.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_normal.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_preference_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner01.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\banner01.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_mobile_campus_.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_mobile_campus_.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coupon_vertical_bar.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\coupon_vertical_bar.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\query_qiandao.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\query_qiandao.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico12.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico12.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goods_tab_price_bg_1.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\goods_tab_price_bg_1.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\num.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\num.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\message.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\message.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s003_.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\s003_.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goods_tab_price_button_p_1.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\goods_tab_price_button_p_1.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_main_searchbutton_normal.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\tab_main_searchbutton_normal.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico30.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico30.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_rpyl.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_rpyl.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xiti.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\xiti.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test_photo06.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\test_photo06.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_carme.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_carme.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_intelli_campus.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_intelli_campus.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_xiuxianlingshi.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_xiuxianlingshi.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_border_normal.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\text_border_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_bg3.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\search_bg3.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\location_tips.9.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\location_tips.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_carme_selected.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_carme_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_xgy.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_category_xgy.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\baby_top100.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\baby_top100.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_markd.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_markd.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico37.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico37.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico24.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico24.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_msg.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_msg.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico29.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico29.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_last_pressed.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_preference_last_pressed.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green_normal.9.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\btn_green_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_title_bg.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\login_title_bg.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popup.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\popup.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\point_gray.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\point_gray.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green_pressed.9.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\btn_green_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\am_shake_back.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\am_shake_back.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_mm.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_mm.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_cx01.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_cx01.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mystore_order.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\mystore_order.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product_summary_add_btn_pressed.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\product_summary_add_btn_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_intelli_campus_.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_intelli_campus_.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dropdown.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\dropdown.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico27.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico27.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exit.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\exit.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_username_icon.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\login_username_icon.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_product_num_des_normal.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\edit_product_num_des_normal.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pop.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\pop.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_block.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\blue_block.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_top_bg.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\home_top_bg.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\select_checked.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\select_checked.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico14.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico14.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_first.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\list_item_first.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_first_normal.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_preference_first_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_last.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\list_item_last.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kuaidi_list.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\kuaidi_list.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_xxls.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_xxls.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_item_bg.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\layout_item_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goods_tab_new_button_p.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\goods_tab_new_button_p.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_title_search_btn_bg.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\common_title_search_btn_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product_summary_tab_item_title_bg.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\product_summary_tab_item_title_bg.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_about.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_about.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notified.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\notified.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_dlqd.gif",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_dlqd.gif"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_main_cartbutton_normal2.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\tab_main_cartbutton_normal2.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s008_.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\s008_.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_bg3.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\search_bg3.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico23.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico23.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico06.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico06.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_qyzg.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_category_qyzg.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico16.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico16.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_background.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\image_background.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_click_yes_focus.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\android_click_yes_focus.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\point_desable.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\point_desable.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goods_tab_man_button_n.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\goods_tab_man_button_n.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call_locate_gray.9.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\call_locate_gray.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico00.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico00.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_main_searchbutton_press.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\tab_main_searchbutton_press.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_rpyl.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_rpyl.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mystore_order.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\mystore_order.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_new_mine_normal.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_tab_new_mine_normal.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_title_search_btn_bg.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\common_title_search_btn_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bag_top100.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\bag_top100.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_course2_bg.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\text_course2_bg.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goods_tab_man_bg.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\goods_tab_man_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shopnc_start_bg.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\shopnc_start_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_course_bg.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\text_course_bg.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shopnc_start_bg1212.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\shopnc_start_bg1212.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico20.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico20.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_jggh.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_jggh.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dropdown.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\dropdown.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ui_ico23.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ui_ico23.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product_summary_add_btn_normal.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\product_summary_add_btn_normal.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_user_portrait.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\default_user_portrait.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\showordertitle.PNG",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\showordertitle.PNG"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_bg_.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_bg_.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mystore_mobile.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\mystore_mobile.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_product_num_add_down.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\edit_product_num_add_down.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xiti.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\xiti.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test_photo03.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\test_photo03.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner01.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\banner01.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_mm01.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_mm01.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_sc01.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_sc01.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\health_top100.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\health_top100.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_hcp01.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_hcp01.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico37.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico37.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s001_.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\s001_.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_product_num_des_no_enable.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\edit_product_num_des_no_enable.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_index_about_bg.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\main_index_about_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_first_pressed.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_preference_first_pressed.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_xiuxianlingshi.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_xiuxianlingshi.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_selector.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\spinner_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_tcj.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_category_tcj.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico07.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico07.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_carme.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_carme.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner03.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\banner03.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\select_point_bg.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\select_point_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kitchen_top100.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\kitchen_top100.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo2x.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\logo2x.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_product_num_add_normal.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\edit_product_num_add_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_help.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_help.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mystore_history.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\mystore_history.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goods_tab_num_bg.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\goods_tab_num_bg.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_to_car_button_press.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\add_to_car_button_press.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_young.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_young.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_wkwgpt.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_wkwgpt.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico36.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico36.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\showordertitle.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\showordertitle.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\point_desable.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\point_desable.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_normal.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\bg_edittext_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_wk.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_category_wk.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s10_.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\s10_.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_index_type_bg.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\main_index_type_bg.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test_photo04.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\test_photo04.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s003_.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\s003_.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wish_list.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wish_list.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_wkwgpt01.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_wkwgpt01.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_bg.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\search_bg.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s11_.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\s11_.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_press.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_press.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame_search.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\frame_search.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico13.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico13.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico03.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico03.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_hancun.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_hancun.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\more_about_p.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\more_about_p.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kuaidi_list9.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\kuaidi_list9.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tcxl.PNG",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_tcxl.PNG"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_msg.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_msg.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_shengxianqindan.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_shengxianqindan.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_to_car_button_normal.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\add_to_car_button_normal.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\select_normal.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\select_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_intelli_campus.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_intelli_campus.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\main_.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_markg.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_markg.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_health.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_health.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_dingcan.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_launcher_dingcan.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico36.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico36.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cart_zeng_icon.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\cart_zeng_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test_photo04.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\test_photo04.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green_pressed.9.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\btn_green_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goods_tab_new_bg.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\goods_tab_new_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_ly01.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_ly01.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_edit_top_normal.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_preference_edit_top_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_bg.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\category_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\life_top100.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\life_top100.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_rpyl01.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_rpyl01.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_wish.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_launcher_wish.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cart_listview_gap.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\cart_listview_gap.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_plain.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\list_item_plain.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product_summary_sub_btn_normal.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\product_summary_sub_btn_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popup.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\popup.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_xxsp01.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_xxsp01.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\message.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\message.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green_normal.9.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\btn_green_normal.9.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_last_pressed.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_preference_last_pressed.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_cx.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_cx.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_markc.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_markc.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_main_typebutton_press.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\tab_main_typebutton_press.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_meet.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_meet.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico13.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico13.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_kdy.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_category_kdy.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s10_.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\s10_.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\order.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\order.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_wkwgpt.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_wkwgpt.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_edit_last_normal.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_preference_edit_last_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico03.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico03.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_first_normal.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_preference_first_normal.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_index_mystore_bg.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\main_index_mystore_bg.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product_detail_color_size_normal.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\product_detail_color_size_normal.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico26.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico26.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_back_default.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_back_default.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_course2_bg.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\text_course2_bg.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_new_mine_press.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_tab_new_mine_press.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_yhq.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_category_yhq.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\right_arrow.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\right_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\groupon_price_l.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\groupon_price_l.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product_number_editor_bg.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\product_number_editor_bg.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_jwm.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_category_jwm.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_main_mystorebutton_press.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\tab_main_mystorebutton_press.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\more_about_p.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\more_about_p.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goods_tab_price_button_p_2.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\goods_tab_price_button_p_2.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kuaidi_list.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\kuaidi_list.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\divider02.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\divider02.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wish_pl.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wish_pl.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_shenghuoriyong.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_shenghuoriyong.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_logo.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\home_logo.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\health_top100.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\health_top100.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\computer_top.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\computer_top.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goods_tab_price_bg_2.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\goods_tab_price_bg_2.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_to_car_button_normal.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\add_to_car_button_normal.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goods_tab_price_bg_2.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\goods_tab_price_bg_2.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner04.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\banner04.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\select_normal.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\select_normal.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\makeup_top100.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\makeup_top100.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_sc.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_sc.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_more.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_category_more.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product_summary_tab_item_title_bg.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\product_summary_tab_item_title_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_box.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\search_box.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_mobile_campus_.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_mobile_campus_.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico23.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico23.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_main_mystorebutton_press.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\tab_main_mystorebutton_press.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wish_pj.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wish_pj.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goods_tab_new_button_p.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\goods_tab_new_button_p.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goods_tab_num_button_n.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\goods_tab_num_button_n.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mystore_collect.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\mystore_collect.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\point_red.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\point_red.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_xgy_2.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_category_xgy_2.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_xxsp01.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_xxsp01.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\point_enable.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\point_enable.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call_locate_blue.9.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\call_locate_blue.9.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test_photo07.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\test_photo07.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_baihuoshangcheng.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_baihuoshangcheng.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_new.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_launcher_new.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico33.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico33.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sport_top100.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\sport_top100.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product_summary_sub_btn_disable.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\product_summary_sub_btn_disable.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\abc.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_lipinlihe.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_lipinlihe.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico26.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico26.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_dlqd01.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_dlqd01.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_click_no_focus.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\android_click_no_focus.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_chuweitiaoliao.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_chuweitiaoliao.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_view_bg.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\login_view_bg.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\divid.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\divid.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_phone_btn_bg.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\selector_phone_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product_detail_color_size_normal.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\product_detail_color_size_normal.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_psw_icon.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\login_psw_icon.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico33.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico33.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product_summary_sub_btn_pressed.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\product_summary_sub_btn_pressed.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_index_cart_bg.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\main_index_cart_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_dlqd01.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_dlqd01.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bank_checked_button.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\bank_checked_button.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_young.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_young.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goods_tab_new_bg.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\goods_tab_new_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\notification.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_xinxianguoshu.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_xinxianguoshu.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test_photo.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\test_photo.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_circle.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_circle.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_rpyl.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_category_rpyl.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_main_typebutton_normal.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\tab_main_typebutton_normal.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_item_bg.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\layout_item_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico10.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico10.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_product_num_des_down.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\edit_product_num_des_down.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_index_about_bg.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\main_index_about_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_index_cart_bg.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\main_index_cart_bg.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_xgy_2.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_category_xgy_2.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\bg_edittext.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_pic_hancun.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_pic_hancun.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico00.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico00.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view__dg.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view__dg.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_kdy.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_category_kdy.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next_.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\next_.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_iccard.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_iccard.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zoom.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\zoom.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_markb.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_markb.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test_photo02.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\test_photo02.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\groupon_textview_border_bg.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\groupon_textview_border_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\baby_top100.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\baby_top100.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_dingcan.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_launcher_dingcan.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_markf.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_markf.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_xsc.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_category_xsc.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_meet.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_meet.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_mm01.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_mm01.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\feedback.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\feedback.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico16.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico16.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coupon_top100.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\coupon_top100.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_o_o.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_o_o.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pre_.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\pre_.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\import_top100.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\import_top100.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico09.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico09.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_dlqd.gif",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_dlqd.gif"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_xgy.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_xgy.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico35.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico35.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wish_rank.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wish_rank.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_click_with_focus.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\android_click_with_focus.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico18.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico18.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\content_bg.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\content_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_new_cart_normal.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_tab_new_cart_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sign_me.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\sign_me.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_jggh.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_category_jggh.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cart_checkbox_bg.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\cart_checkbox_bg.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\point_gray.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\point_gray.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_single_normal.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_preference_single_normal.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_single_pressed.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_preference_single_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_sjsm.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_category_sjsm.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_rpyl.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_rpyl.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product_summary_sub_btn_disable.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\product_summary_sub_btn_disable.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s006_.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\s006_.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico02.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico02.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico25.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico25.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product_detail_new_line.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\product_detail_new_line.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_new_cart_press.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_tab_new_cart_press.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_product_num_des_normal_1.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\edit_product_num_des_normal_1.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wish_pub.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wish_pub.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_xxsp.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_xxsp.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s004_.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\s004_.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_ryp.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_category_ryp.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_view_bg.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\login_view_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_normal.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\location_tips.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\location_tips.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_liangyouganhuo.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_liangyouganhuo.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\life_top100.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\life_top100.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_discount_1.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_discount_1.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_new_search_press.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_tab_new_search_press.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_chuweitiaoliao.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_chuweitiaoliao.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_tc.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_tc.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_st.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_st.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner04.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\banner04.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico01.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico01.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_bg.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\login_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_normal.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_preference_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico11.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico11.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\more_about_n.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\more_about_n.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_close_view_button.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\login_close_view_button.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coupon_top100.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\coupon_top100.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_gdfl.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_gdfl.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product_summary_sub_btn_pressed.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\product_summary_sub_btn_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\computer_top.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\computer_top.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico24.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico24.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_border.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\text_border.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\import_top100.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\import_top100.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico17.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico17.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kitchen_top100.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\kitchen_top100.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s002_.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\s002_.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_text.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\edit_text.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cart_listview_gap.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\cart_listview_gap.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\expandable_body_line.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\expandable_body_line.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\right_arrow.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\right_arrow.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goods_tab_man_button_p.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\goods_tab_man_button_p.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_ghhz.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_category_ghhz.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product_detail_new_line.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\product_detail_new_line.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mystore_mobile.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\mystore_mobile.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_promotion_icon.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\home_promotion_icon.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_bg2.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\search_bg2.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_icon_123.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\category_icon_123.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_product_num_des_normal_1.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\edit_product_num_des_normal_1.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico27.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico27.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\myprogress_style.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\myprogress_style.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_bg.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_bg.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s005_.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\s005_.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_new_mine_normal.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_tab_new_mine_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_product_num_add_down.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\edit_product_num_add_down.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mystore_address.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\mystore_address.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bcd.9.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\bcd.9.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goods_tab_man_button_n.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\goods_tab_man_button_n.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_first.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\list_item_first.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico17.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico17.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_new_mine_press.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_tab_new_mine_press.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_bg.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\login_bg.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_ll.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_ll.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_bg.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\text_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tcxl.PNG",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_tcxl.PNG"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_icon_123.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\category_icon_123.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_marka.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_marka.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_product_num_add_no_enable.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\edit_product_num_add_no_enable.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_back_default.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_back_default.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product_number_editor_bg.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\product_number_editor_bg.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_click_yes_focus.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\android_click_yes_focus.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_o_y.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_o_y.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_ll.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_ll.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_main_homebutton_normal.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\tab_main_homebutton_normal.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc.9.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\abc.9.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shopnc_start_bg1224.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\shopnc_start_bg1224.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico07.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico07.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_sc01.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_sc01.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\groupon_price_l.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\groupon_price_l.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_bg.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_bg.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pay_type_bg.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\pay_type_bg.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_promotion_icon.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\home_promotion_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goods_tab_price_bg_1.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\goods_tab_price_bg_1.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_wish.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_wish.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_goods_image_240.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\default_goods_image_240.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico32.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico32.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_msg01.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_msg01.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_qyzg.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_category_qyzg.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sign_me.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\sign_me.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico10.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico10.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bank_button.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\bank_button.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico09.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico09.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\myprogress_style.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\myprogress_style.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bag_top100.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\bag_top100.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s009_.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\s009_.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sport_top100.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\sport_top100.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico19.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico19.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\signin.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\signin.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bar_bg.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\tab_bar_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_single_pressed.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_preference_single_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_jwm.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_category_jwm.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tcxl.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_tcxl.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\type_second_gray_point.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\type_second_gray_point.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\order.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\order.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_bg.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\category_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico34.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico34.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_gdfl.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_gdfl.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_jggh.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_jggh.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ui_ico23.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ui_ico23.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product_summary_add_btn_normal.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\product_summary_add_btn_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_lipinlihe.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_lipinlihe.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\good_list_selector.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\good_list_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_text.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\edit_text.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notified.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\notified.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_single.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\list_item_single.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_single.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\list_item_single.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_ly.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_ly.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test_photo03.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\test_photo03.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_product_num_des_normal.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\edit_product_num_des_normal.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_new.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_launcher_new.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_yhq.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_category_yhq.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_phone_btn_bg.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\selector_phone_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\point_start.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\point_start.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_signin.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\iv_signin.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico02.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico02.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cancel.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\cancel.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_ly.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_ly.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_main_typebutton_press.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\tab_main_typebutton_press.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_hcp01.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_hcp01.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_signin.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\iv_signin.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_bg.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\checkbox_bg.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_hcp.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_hcp.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_tc01.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_tc01.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner03.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\banner03.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_markc.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_markc.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shopnc_start_bg1212.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\shopnc_start_bg1212.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_hzp.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_hzp.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s001_.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\s001_.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product_price_tuan.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\product_price_tuan.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goods_tab_new_button_n.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\goods_tab_new_button_n.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mystore_collect.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\mystore_collect.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\main_.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goods_tab_num_button_p.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\goods_tab_num_button_p.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_markd.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_markd.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_new_home_press.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_tab_new_home_press.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\feedback.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\feedback.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test_photo05.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\test_photo05.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_o_o.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_o_o.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_box.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\search_box.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_ryp.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_category_ryp.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico35.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico35.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_close_icon.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\app_close_icon.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico18.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico18.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico12.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico12.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_favorites_add.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\android_favorites_add.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goods_tab_price_button_p_1.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\goods_tab_price_button_p_1.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s005_.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\s005_.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_main_homebutton_normal.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\tab_main_homebutton_normal.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_border_normal.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\text_border_normal.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_cx01.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_cx01.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\car_top100.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\car_top100.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_focused.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\bg_edittext_focused.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_cwp.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_cwp.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product_price_jiang.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\product_price_jiang.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_lessionhelp_.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_lessionhelp_.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_cwp.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_cwp.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_normal.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_about.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_about.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_normal.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\bg_edittext_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_xxls.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_category_xxls.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_click_with_focus.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\android_click_with_focus.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\car_top100.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\car_top100.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_xxsp.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_xxsp.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_pressed.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_preference_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_rupinyinliao.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_rupinyinliao.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_carme_selected.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_carme_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\good_list_selector.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\good_list_selector.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wish_rank.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wish_rank.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner02.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\banner02.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exit.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\exit.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico28.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico28.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\food_top100.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\food_top100.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bank_checked_button.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\bank_checked_button.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_sjsm.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_category_sjsm.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_main_homebutton_press.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\tab_main_homebutton_press.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_main_mystorebutton_normal.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\tab_main_mystorebutton_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_jggh.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_category_jggh.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete_btn.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\delete_btn.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_ghhz.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_category_ghhz.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call_locate_blue.9.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\call_locate_blue.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_index_home_bg.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\main_index_home_bg.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\select_point_bg.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\select_point_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_wish.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_wish.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ui_ico22.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ui_ico22.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bg.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\progress_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico21.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico21.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wish_pl.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wish_pl.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cart_zeng_icon.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\cart_zeng_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_ndxl.PNG",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_ndxl.PNG"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\query_qiandao.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\query_qiandao.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_main_mystorebutton_normal.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\tab_main_mystorebutton_normal.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_product_num_add_no_enable.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\edit_product_num_add_no_enable.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product_price_tuan.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\product_price_tuan.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_pic_hancun.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_pic_hancun.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s9_.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\s9_.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_tc.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_tc.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_shengxianqindan.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_shengxianqindan.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_tcj.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_category_tcj.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_msg01.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_msg01.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_bg.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\checkbox_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_marka.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_marka.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico14.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico14.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_new_cart_press.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_tab_new_cart_press.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\num.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\num.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\bg_edittext.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\notification.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s007_.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\s007_.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico08.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico08.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mystore_history.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\mystore_history.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goods_tab_btn_bg.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\goods_tab_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico15.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico15.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goods_tab_price_button_n.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\goods_tab_price_button_n.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_product_num_des_no_enable.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\edit_product_num_des_no_enable.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s008_.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\s008_.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_jhgg.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_jhgg.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico05.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico05.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete_btn.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\delete_btn.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_cwp01.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_cwp01.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_rpyl.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_rpyl.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_to_car_button.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\add_to_car_button.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_discount_1.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_discount_1.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wish_pj.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wish_pj.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_liangyouganhuo.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_liangyouganhuo.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_new_home_nomal.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_tab_new_home_nomal.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico34.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico34.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_new_search_normal.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_tab_new_search_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bank_button.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\bank_button.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_block.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\blue_block.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coupon_vertical_bar.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\coupon_vertical_bar.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_wk.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_category_wk.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_main_searchbutton_press.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\tab_main_searchbutton_press.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test_photo06.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\test_photo06.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_edit_last_normal.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_preference_edit_last_normal.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_first_pressed.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_preference_first_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_close_view_button.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\login_close_view_button.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_click_no_focus.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\android_click_no_focus.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_jhgg.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_jhgg.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goods_tab_num_button_p.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\goods_tab_num_button_p.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_comment.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\theme_comment.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_top_bg.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\home_top_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_main_cartbutton_normal.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\tab_main_cartbutton_normal.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_course_bg.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\text_course_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_o_y.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_o_y.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goods_tab_man_bg.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\goods_tab_man_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main__.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\main__.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bar_bg.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\tab_bar_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bg.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\progress_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\product_summary_sub_btn_normal.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\product_summary_sub_btn_normal.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mystore_vouchers.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\mystore_vouchers.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_markg.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_markg.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main__.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\main__.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_index_type_bg.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\main_index_type_bg.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_textcolor_bg.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\home_textcolor_bg.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tb_bg_login_input_hl.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\tb_bg_login_input_hl.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\content_bg.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\content_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico15.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico15.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_ndxl.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_ndxl.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_comment.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\theme_comment.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_border_select.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\text_border_select.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_iccard.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_iccard.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next_.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\next_.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico01.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico01.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test_photo02.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\test_photo02.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_bg.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\text_bg.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_ningbo1.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_ningbo1.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_gdfl01.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_gdfl01.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico25.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico25.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_selector.xml",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\spinner_selector.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view__dg.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view__dg.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_last_normal.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_preference_last_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_xsc.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_category_xsc.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_icon.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\camera_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pop.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\pop.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_comment_like_click.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\theme_comment_like_click.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_circle.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_circle.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_cx.jpg",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_cx.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_to_car_button.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\add_to_car_button.xml"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cart_checkbox_bg.xml",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\cart_checkbox_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\star_metro_orang.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\star_metro_orang.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner02.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\banner02.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goods_tab_price_button_n.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\goods_tab_price_button_n.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_to_car_button_press.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\add_to_car_button_press.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\save.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\save.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_view_intelli_campus_.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\start_view_intelli_campus_.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_bg2.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\search_bg2.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_new_cart_normal.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_tab_new_cart_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main1_.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\main1_.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s9_.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\s9_.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\book_top100.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\book_top100.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_jggh01.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_jggh01.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico05.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico05.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico11.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico11.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\more_about_n.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\more_about_n.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_background.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\image_background.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\divider02.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\divider02.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_cwp01.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_cwp01.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call_locate_gray.9.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\call_locate_gray.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mystore_address.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\mystore_address.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico28.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico28.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_xgy.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_category_xgy.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_submit_button.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\login_submit_button.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bcd.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\bcd.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_marke.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_marke.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\groupon_textview_border_bg.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\groupon_textview_border_bg.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_bg.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\search_bg.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ui_ico22.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ui_ico22.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\select_checked.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\select_checked.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_en.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_en.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico31.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico31.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_more.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_category_more.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico08.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico08.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wish_pub.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wish_pub.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_st.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\icon_st.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\point_red.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\point_red.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_xgy.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_xgy.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_gdfl01.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_new_gdfl01.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_title_bg.jpg",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\login_title_bg.jpg"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mobile_top100.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\mobile_top100.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\big_promotion_sale_label.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\big_promotion_sale_label.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_main_homebutton_press.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\tab_main_homebutton_press.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wether_ico21.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\wether_ico21.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pre_.png",
+        "source": "D:\\AndroidProject\\jiaowu_app\\app\\src\\main\\res\\drawable\\pre_.png"
+    },
+    {
+        "merged": "F:\\Androidproject\\jiaowu_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_new_search_press.png",
+        "source": "F:\\Androidproject\\jiaowu_app\\app\\src\\main\\res\\drawable\\ic_tab_new_search_press.png"
+    }
+]
